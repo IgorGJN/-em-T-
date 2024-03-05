@@ -5,9 +5,9 @@
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "name": "Nome do dfsdfCartão Customizado",
+          "description": "Descrdsfdfição do Cartão",
+          "keyObjectives": ["Odfsdbjetivo 1", "Objetifdsfvo 2", "Objesdfsdtivo 3"],
           "contents": [
             {
               "type": "SITE",
@@ -25,7 +25,7 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado 2",
+          "name": "Nome do sdfsd Customizado 2",
           "description": "Descrição do Cartão 2",
           "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
           "contents": [
