@@ -2,7 +2,7 @@
   "name": "Igor Gabriel",
   "expertises": [
     {
-      "name": "Nivel 1 - Básico",
+      "name": "Nivel 1 - Iniciando",
       "cards": [
         {
           "name": "Nome do dfsdfCartão Customizado",
@@ -17,21 +17,12 @@
           ]
         },
         {
-          "id": "nodejs-fundamentals"
-        },        
-        {
-          "id": "nodejs-fundamentals"
-        },
-        {
-          "id": "nodejs-fundamentals"
-        },
-        {
-          "id": "nodejs-fundamentals"
+          "id": "data-science-fundamentals"
         }
       ]
     },
     {
-      "name": "Nivel 2 - Intermediário",
+      "name": "Nivel 2 - Aprofundando",
       "cards": [
         {
           "name": "Nome do sdfsd Customizado 2",
@@ -51,13 +42,13 @@
       ]
     },
     {
-      "name": "Nivel 3 - Avançado",
+      "name": "Nivel 3 - Especialista",
       "cards": []
     }
   ],
   "collaborations": [
     {
-      "name": "Lado Esquerdo do T",
+      "name": "Do To",
       "cards": [
         {
           "name": "Nome do Cartão Customizado Lateral ESQ",
@@ -77,8 +68,12 @@
       ]
     },
     {
-      "name": "Lado Direito do T",
-      "cards": []
+      "name": "Work",
+      "cards": [
+        {
+          "id": "data-science-fundamentals"
+        }
+      ]
     }
   ]
 }
