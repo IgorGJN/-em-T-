@@ -18,6 +18,9 @@
         },
         {
           "id": "data-science-fundamentals"
+        },
+        {
+          "id": "python-for-data-science"
         }
       ]
     },
@@ -37,13 +40,17 @@
           ]
         },
         {
-          "id": "apollo-client"
+          "id": "machine-learning-fundamentals"
         }
       ]
     },
     {
       "name": "Nivel 3 - Especialista",
-      "cards": []
+      "cards": [
+        {
+          "id": "data-science-fundamentals"
+        }
+        ]
     }
   ],
   "collaborations": [
@@ -51,7 +58,13 @@
       "name": "Do To",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado Lateral ESQ",
+          "id": "power-bi"
+        },
+        {
+          "id": "excel"
+        },
+        {
+          "name": "VBA",
           "description": "Descrição do Cartão 1 Lateral ESQ",
           "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
           "contents": [
@@ -63,7 +76,7 @@
           ]
         },
         {
-          "id": "apollo-client"
+          "id": "sql-fundamentals"
         }
       ]
     },
@@ -71,7 +84,10 @@
       "name": "Work",
       "cards": [
         {
-          "id": "data-science-fundamentals"
+          "id": "git-and-github-fundamentals"
+        },
+        {
+          "id": "storytelling-with-data"
         }
       ]
     }
