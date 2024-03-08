@@ -84,6 +84,18 @@
       "name": "Work",
       "cards": [
         {
+          "name": "English",
+          "description": "Aprender inglês vai me ajudar no aprendizado da ciência de dados e a melhor me colocar no ambiente de trabalho.",
+          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "USA Learns",
+              "link": "https://www.usalearns.org/"
+            }
+          ]
+        },
+        {
           "id": "git-and-github-fundamentals"
         },
         {
